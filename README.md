@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Malik M. Rolle 👋
 
-<!--
-**RolleTech/RolleTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science | Analytics | Python Developer**
 
-Here are some ideas to get you started:
+Building predictive models and analytics dashboards that drive business decisions. B.B.A. Howard University '26
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Projects
+
+### Navy NAVFAC Analytics Dashboard
+**Tableau | SQL | Data Analysis**
+
+Interactive dashboard tracking $XXM in capital investments across 200+ service providers. Revealed 5.1% project growth and 20% data accuracy improvement.
+
+- **[View on GitHub](https://github.com/yourusername/navy-navfac-dashboard)** | **[Live Dashboard](link-to-tableau-public)**
+
+---
+
+### Repair Services ML Model
+**Python | scikit-learn | Pandas**
+
+Predictive ML models diagnosing operational inefficiencies for B2B repair company. Analyzed 500+ repair records to identify $XXk in annual losses.
+
+- **[View on GitHub](https://github.com/yourusername/repair-ml-model)** | **[Notebook](link)**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, Java, SQL  
+**Data & Analytics:** Tableau, Excel (Advanced), Pandas, scikit-learn  
+**Tools:** Google Colab, ETL, Dashboard Design
+
+## 📈 Stats
+
+- 8+ data projects
+- Intern @ Deloitte (U.S. Navy NAVFAC)
+- Intern @ Howard University (Cybersecurity Analytics Center)
+
+## 📫 Let's Connect
+
+- **Email:** malikrlaw@gmail.com
+- **Phone:** (786) 930-3884
+- **LinkedIn:** [linkedin.com/in/malik-rolle](link)
