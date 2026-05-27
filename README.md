@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Malik M. Rolle 👋
+# Hi, I'm Malik M. Rolle 
 
 **Data Science | Analytics | Python Developer**
 
