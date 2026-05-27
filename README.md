@@ -18,31 +18,29 @@ I'm a data scientist and full-stack developer focused on solving real business p
 
 ## Table of Contents
 
-* [Featured Projects](#featured-projects)
-* [Tech Stack](#tech-stack)
+* [Portfolio Projects](#portfolio-projects)
+  * Python
+    * [Kaddy Group Repair Services](#kaddy-group-repair-services)
+  * SQL
+  * VS CODE / Claude Code
 * [Experience](#experience)
 * [Education](#education)
 * [Contact](#contact)
 
 ---
 
-## Featured Projects
+## Portfolio Projects
 
-### Navy NAVFAC Dashboard
+### Kaddy Group Repair Services 
 
-Interactive Tableau dashboard tracking capital investments across 200+ service providers. Revealed 5.1% project growth and 20% data accuracy improvement.
-
-**Skills:** Tableau, SQL, Data Analysis
-
-[View on GitHub](https://github.com/RolleTech/navy-navfac-dashboard) | [Live Demo](#)
-
----
-
-### Kaddy Group Repair Services Analysis
-
-Multi-part analysis of repair shop data including sales profitability modeling, customer sentiment analysis, and FAQ optimization.
+**Description:** Multi-part analysis of repair shop data including sales profitability modeling, customer reviews sentiment analysis, and FAQ optimization featuring RAG/Fine-Tuning Optimization.
 
 Analyzed 500+ sales records, 1,960+ customer reviews, and tested 3 FAQ approaches (RAG vs fine-tuning).
+
+**Datasets:** [Sales](https://drive.google.com/file/d/1UIYLpQYQkiOApmqkpinDcaEhkrVq8I4D/view?usp=sharing) , [Reviews](https://drive.google.com/file/d/1jg6Z_SDG2Wr9NOCZiFT_iXfMpNpuW4bi/view?usp=sharing), [FAQ's](https://drive.google.com/file/d/10fptvLHVGgoONiWG8MqnjlGANXoLhmLe/view?usp=sharing)
+
+
+
 
 **Key Findings:**
 - Plumbing services are 15% less profitable than other repair types
