@@ -12,7 +12,7 @@ Building predictive models and analytics dashboards that drive business decision
 
 ## About me
 
-I'm a data scientist and full-stack developer focused on solving real business problems. At Deloitte, I analyzed Navy data and built Tableau dashboards. At Howard's Cybersecurity Analytics Center, I developed ML models to diagnose operational inefficiencies. I'm interested in data engineering, ML ops, and building scalable analytics systems.
+I'm a data scientist and full-stack developer focused on solving real business problems. At Deloitte, I analyzed Navy data and built Tableau dashboards. At Howard's Cybersecurity Analytics Center, I developed ML models to diagnose operational inefficiencies. I'm interested in data engineering, ML Ops, and building scalable analytics systems.
 
 ---
 
