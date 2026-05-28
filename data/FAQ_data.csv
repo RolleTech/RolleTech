@@ -1,0 +1,702 @@
+[
+  {
+    "id": "FAQ-001",
+    "question": "How do I book a service?",
+    "answer": "Book online or by phone.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-002",
+    "question": "Do you offer emergency plumbing?",
+    "answer": "Yes, 24/7 emergency support.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-003",
+    "question": "Are electricians licensed?",
+    "answer": "Yes, all are certified professionals.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-004",
+    "question": "Do you offer free quotes?",
+    "answer": "Yes, free estimates for all services.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-005",
+    "question": "What payment methods are accepted?",
+    "answer": "We take cash, card, and mobile payments.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-006",
+    "question": "FAQ question 6",
+    "answer": "Example answer for question 6.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-007",
+    "question": "FAQ question 7",
+    "answer": "Example answer for question 7.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-008",
+    "question": "FAQ question 8",
+    "answer": "Example answer for question 8.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-009",
+    "question": "FAQ question 9",
+    "answer": "Example answer for question 9.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-010",
+    "question": "FAQ question 10",
+    "answer": "Example answer for question 10.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-011",
+    "question": "FAQ question 11",
+    "answer": "Example answer for question 11.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-012",
+    "question": "FAQ question 12",
+    "answer": "Example answer for question 12.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-013",
+    "question": "FAQ question 13",
+    "answer": "Example answer for question 13.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-014",
+    "question": "FAQ question 14",
+    "answer": "Example answer for question 14.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-015",
+    "question": "FAQ question 15",
+    "answer": "Example answer for question 15.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-016",
+    "question": "FAQ question 16",
+    "answer": "Example answer for question 16.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-017",
+    "question": "FAQ question 17",
+    "answer": "Example answer for question 17.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-018",
+    "question": "FAQ question 18",
+    "answer": "Example answer for question 18.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-019",
+    "question": "FAQ question 19",
+    "answer": "Example answer for question 19.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-020",
+    "question": "FAQ question 20",
+    "answer": "Example answer for question 20.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-021",
+    "question": "FAQ question 21",
+    "answer": "Example answer for question 21.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-022",
+    "question": "FAQ question 22",
+    "answer": "Example answer for question 22.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-023",
+    "question": "FAQ question 23",
+    "answer": "Example answer for question 23.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-024",
+    "question": "FAQ question 24",
+    "answer": "Example answer for question 24.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-025",
+    "question": "FAQ question 25",
+    "answer": "Example answer for question 25.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-026",
+    "question": "FAQ question 26",
+    "answer": "Example answer for question 26.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-027",
+    "question": "FAQ question 27",
+    "answer": "Example answer for question 27.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-028",
+    "question": "FAQ question 28",
+    "answer": "Example answer for question 28.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-029",
+    "question": "FAQ question 29",
+    "answer": "Example answer for question 29.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-030",
+    "question": "FAQ question 30",
+    "answer": "Example answer for question 30.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-031",
+    "question": "FAQ question 31",
+    "answer": "Example answer for question 31.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-032",
+    "question": "FAQ question 32",
+    "answer": "Example answer for question 32.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-033",
+    "question": "FAQ question 33",
+    "answer": "Example answer for question 33.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-034",
+    "question": "FAQ question 34",
+    "answer": "Example answer for question 34.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-035",
+    "question": "FAQ question 35",
+    "answer": "Example answer for question 35.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-036",
+    "question": "FAQ question 36",
+    "answer": "Example answer for question 36.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-037",
+    "question": "FAQ question 37",
+    "answer": "Example answer for question 37.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-038",
+    "question": "FAQ question 38",
+    "answer": "Example answer for question 38.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-039",
+    "question": "FAQ question 39",
+    "answer": "Example answer for question 39.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-040",
+    "question": "FAQ question 40",
+    "answer": "Example answer for question 40.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-041",
+    "question": "FAQ question 41",
+    "answer": "Example answer for question 41.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-042",
+    "question": "FAQ question 42",
+    "answer": "Example answer for question 42.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-043",
+    "question": "FAQ question 43",
+    "answer": "Example answer for question 43.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-044",
+    "question": "FAQ question 44",
+    "answer": "Example answer for question 44.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-045",
+    "question": "FAQ question 45",
+    "answer": "Example answer for question 45.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-046",
+    "question": "FAQ question 46",
+    "answer": "Example answer for question 46.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-047",
+    "question": "FAQ question 47",
+    "answer": "Example answer for question 47.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-048",
+    "question": "FAQ question 48",
+    "answer": "Example answer for question 48.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-049",
+    "question": "FAQ question 49",
+    "answer": "Example answer for question 49.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-050",
+    "question": "FAQ question 50",
+    "answer": "Example answer for question 50.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-051",
+    "question": "FAQ question 51",
+    "answer": "Example answer for question 51.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-052",
+    "question": "FAQ question 52",
+    "answer": "Example answer for question 52.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-053",
+    "question": "FAQ question 53",
+    "answer": "Example answer for question 53.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-054",
+    "question": "FAQ question 54",
+    "answer": "Example answer for question 54.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-055",
+    "question": "FAQ question 55",
+    "answer": "Example answer for question 55.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-056",
+    "question": "FAQ question 56",
+    "answer": "Example answer for question 56.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-057",
+    "question": "FAQ question 57",
+    "answer": "Example answer for question 57.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-058",
+    "question": "FAQ question 58",
+    "answer": "Example answer for question 58.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-059",
+    "question": "FAQ question 59",
+    "answer": "Example answer for question 59.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-060",
+    "question": "FAQ question 60",
+    "answer": "Example answer for question 60.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-061",
+    "question": "FAQ question 61",
+    "answer": "Example answer for question 61.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-062",
+    "question": "FAQ question 62",
+    "answer": "Example answer for question 62.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-063",
+    "question": "FAQ question 63",
+    "answer": "Example answer for question 63.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-064",
+    "question": "FAQ question 64",
+    "answer": "Example answer for question 64.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-065",
+    "question": "FAQ question 65",
+    "answer": "Example answer for question 65.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-066",
+    "question": "FAQ question 66",
+    "answer": "Example answer for question 66.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-067",
+    "question": "FAQ question 67",
+    "answer": "Example answer for question 67.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-068",
+    "question": "FAQ question 68",
+    "answer": "Example answer for question 68.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-069",
+    "question": "FAQ question 69",
+    "answer": "Example answer for question 69.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-070",
+    "question": "FAQ question 70",
+    "answer": "Example answer for question 70.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-071",
+    "question": "FAQ question 71",
+    "answer": "Example answer for question 71.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-072",
+    "question": "FAQ question 72",
+    "answer": "Example answer for question 72.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-073",
+    "question": "FAQ question 73",
+    "answer": "Example answer for question 73.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-074",
+    "question": "FAQ question 74",
+    "answer": "Example answer for question 74.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-075",
+    "question": "FAQ question 75",
+    "answer": "Example answer for question 75.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-076",
+    "question": "FAQ question 76",
+    "answer": "Example answer for question 76.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-077",
+    "question": "FAQ question 77",
+    "answer": "Example answer for question 77.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-078",
+    "question": "FAQ question 78",
+    "answer": "Example answer for question 78.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-079",
+    "question": "FAQ question 79",
+    "answer": "Example answer for question 79.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-080",
+    "question": "FAQ question 80",
+    "answer": "Example answer for question 80.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-081",
+    "question": "FAQ question 81",
+    "answer": "Example answer for question 81.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-082",
+    "question": "FAQ question 82",
+    "answer": "Example answer for question 82.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-083",
+    "question": "FAQ question 83",
+    "answer": "Example answer for question 83.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-084",
+    "question": "FAQ question 84",
+    "answer": "Example answer for question 84.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-085",
+    "question": "FAQ question 85",
+    "answer": "Example answer for question 85.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-086",
+    "question": "FAQ question 86",
+    "answer": "Example answer for question 86.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-087",
+    "question": "FAQ question 87",
+    "answer": "Example answer for question 87.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-088",
+    "question": "FAQ question 88",
+    "answer": "Example answer for question 88.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-089",
+    "question": "FAQ question 89",
+    "answer": "Example answer for question 89.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-090",
+    "question": "FAQ question 90",
+    "answer": "Example answer for question 90.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-091",
+    "question": "FAQ question 91",
+    "answer": "Example answer for question 91.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-092",
+    "question": "FAQ question 92",
+    "answer": "Example answer for question 92.",
+    "category": "support",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-093",
+    "question": "FAQ question 93",
+    "answer": "Example answer for question 93.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-094",
+    "question": "FAQ question 94",
+    "answer": "Example answer for question 94.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-095",
+    "question": "FAQ question 95",
+    "answer": "Example answer for question 95.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-096",
+    "question": "FAQ question 96",
+    "answer": "Example answer for question 96.",
+    "category": "lawn",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-097",
+    "question": "FAQ question 97",
+    "answer": "Example answer for question 97.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-098",
+    "question": "FAQ question 98",
+    "answer": "Example answer for question 98.",
+    "category": "electric",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-099",
+    "question": "FAQ question 99",
+    "answer": "Example answer for question 99.",
+    "category": "general",
+    "last_updated": "2025-10-16"
+  },
+  {
+    "id": "FAQ-100",
+    "question": "FAQ question 100",
+    "answer": "Example answer for question 100.",
+    "category": "plumbing",
+    "last_updated": "2025-10-16"
+  }
+]
