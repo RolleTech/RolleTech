@@ -37,7 +37,7 @@ I'm a data scientist and full-stack developer focused on solving real business p
 
 Analyzed 500+ sales records, 1,960+ customer reviews, and tested 3 FAQ approaches (RAG vs fine-tuning).
 
-**Datasets:** [Sales](data/sales_data.csv), [Reviews](#), [FAQs](#) , [Reviews](https://drive.google.com/file/d/1jg6Z_SDG2Wr9NOCZiFT_iXfMpNpuW4bi/view?usp=sharing), [FAQ's](https://drive.google.com/file/d/10fptvLHVGgoONiWG8MqnjlGANXoLhmLe/view?usp=sharing)
+**Datasets:** [Sales](data/sales_data.csv), [Reviews](review_data.csv), [FAQs](#) , [Reviews](https://drive.google.com/file/d/1jg6Z_SDG2Wr9NOCZiFT_iXfMpNpuW4bi/view?usp=sharing), [FAQ's](https://drive.google.com/file/d/10fptvLHVGgoONiWG8MqnjlGANXoLhmLe/view?usp=sharing)
 
 
 
