@@ -39,6 +39,8 @@ Analyzed 500+ sales records, 1,960+ customer reviews, and tested 3 FAQ approache
 
 **Datasets:** [Sales](data/sales_data.csv), [Reviews](data/review_data.csv), [FAQs](data/FAQ_data.csv)
 
+**Python Notebooks** [Sales]
+
 
 
 **Key Findings:**
